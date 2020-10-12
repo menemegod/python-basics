@@ -1,6 +1,6 @@
 student_marks = []
 while True:
-    mark = input('Введите оценку студента: ')
+    mark = input('Введите оценку студента:\n')
     if mark:
         student_marks.append(mark)
     else:
